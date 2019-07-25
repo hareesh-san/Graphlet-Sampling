@@ -1,0 +1,3 @@
+chmod 777 GUISE6.out 
+cd /Users/Harry/Documents/workspace_graphletSampling/.metadata/.plugins/org.eclipse.wst.server.core/
+cd tmp1/wtpwebapps/graphletSampling_v0.08/Executable/

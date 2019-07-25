@@ -1,0 +1,6 @@
+.idea
+*.classpath
+*.DS_Store
+*.project
+.settings
+build
